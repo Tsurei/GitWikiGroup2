@@ -21,7 +21,7 @@ Welcome to my Game Development Portfolio! I am passionate about creating immersi
 
 ## Additional Resources
 
-Explore my [resume](./resume) for a detailed overview of my skills and experience. For a comprehensive list of project URLs and additional information, visit the [Links & Resume](./links-and-resume) page.
+For a comprehensive list of project URLs and additional information, visit the [Links & Resume](docs/Resume.html) page.
 
 Feel free to contact me for collaboration opportunities or provide feedback. Let's continue shaping the future of gaming together!
 
