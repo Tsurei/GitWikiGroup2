@@ -6,7 +6,25 @@ nav_order: 0
 
 # Game Development Portfolio
 
-Welcome to my Game Development Portfolio! I am passionate about creating immersive and engaging gaming experiences that captivate players and push the boundaries of interactive entertainment. From 2D platformers to expansive 3D worlds, each project reflects my dedication to innovation and craftsmanship in the realm of game development. Explore the projects below to delve into the exciting world of my creations, and feel free to reach out for collaboration or feedback. Let's embark on a journey through the realms of digital adventure together!
+Welcome to my Game Development Portfolio! I am passionate about creating immersive and engaging gaming experiences that captivate players and push the boundaries of interactive entertainment. Whether it's crafting intricate 2D platformers or building expansive 3D worlds, each project in this repository reflects my dedication to innovation and craftsmanship in the realm of game development. Explore the projects listed below to delve into the exciting world of my creations. Let's embark on a journey through the realms of digital adventure together!
+
+## Projects
+
+1. [Project Name 1](./projects/project1)
+   - Brief description and highlights.
+
+2. [Project Name 2](./projects/project2)
+   - Brief description and highlights.
+
+3. [Project Name 3](./projects/project3)
+   - Brief description and highlights.
+
+## Additional Resources
+
+Explore my [resume](./resume) for a detailed overview of my skills and experience. For a comprehensive list of project URLs and additional information, visit the [Links & Resume](./links-and-resume) page.
+
+Feel free to contact me for collaboration opportunities or provide feedback. Let's continue shaping the future of gaming together!
+
 
 
 ----
