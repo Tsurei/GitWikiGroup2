@@ -1,14 +1,13 @@
 ---
 title: Home
 layout: home
-nav_order: 1
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Game Development Portfolio
 
-Start by following the instructions in the [README] and then [browse the Just the Docs documentation][Just the Docs] to learn more about how to use this theme.
+Welcome to my Game Development Portfolio! I am passionate about creating immersive and engaging gaming experiences that captivate players and push the boundaries of interactive entertainment. From 2D platformers to expansive 3D worlds, each project reflects my dedication to innovation and craftsmanship in the realm of game development. Explore the projects below to delve into the exciting world of my creations, and feel free to reach out for collaboration or feedback. Let's embark on a journey through the realms of digital adventure together!
 
-Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
 
 ----
 
