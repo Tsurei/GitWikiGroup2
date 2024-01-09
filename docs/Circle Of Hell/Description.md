@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Description
-oarent: Circle of Hell
+parent: Circle of Hell
 nav_order: 1
 ---
 
