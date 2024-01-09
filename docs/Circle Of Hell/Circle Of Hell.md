@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Game Of Life
+title: Circle of Hell
 has_children: true
 nav_order: 3
 ---
 
-# Game Of Life
+# Circle of Hell
+
 
