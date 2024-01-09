@@ -10,13 +10,13 @@ Welcome to my Game Development Portfolio! I am passionate about creating immersi
 
 ## Projects
 
-1. [Alkaline](https://blkysuity-sh.itch.io/alkaline)
+1. [Alkaline](./docs/Alkaline/Alkaline.html)
    - A 2-D Puzzle-Platformer where you, a robot, must discover who you are as navigate through a series of challenges and puzzles.
 
-2. [Shadowhound](https://choseo.itch.io/shadowhound)
+2. [Shadowhound](./docs/Shadowhound/Shadowhound.html)
    - An arcade like single level survival game. Outlast the time limit, as you face off against the air elemental!
 
-3. [Circle of Hell](https://choseo.itch.io/circle-of-hell)
+3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
    - A text-based choose your path journey. Can you escape unscathed?
 
 ## Additional Resources
