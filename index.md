@@ -14,13 +14,13 @@ Embark on a journey through the exciting world of my creations and witness the e
 
 ## Projects
 
-1. [Alkaline](./docs/Alkaline/Alkaline.html)
+### 1. [Alkaline](./docs/Alkaline/Alkaline.html)
    - A 2-D Puzzle-Platformer where you, a robot, must discover who you are as navigate through a series of challenges and puzzles.
 
-2. [Shadowhound](./docs/Shadowhound/Shadowhound.html)
+### 2. [Shadowhound](./docs/Shadowhound/Shadowhound.html)
    - An arcade like single level survival game. Outlast the time limit, as you face off against the air elemental!
 
-3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
+### 3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
    - A text-based choose your path journey. Can you escape unscathed?
 
 ## Additional Resources
