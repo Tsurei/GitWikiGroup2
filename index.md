@@ -26,6 +26,7 @@ Take a journey through the exciting realm of my creations and witness the evolut
 
 ### 3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
    - A text-based choose your path journey. Can you escape unscathed?
+![Circle of Hell Title Screen](./pictures/Circle%20of%20Hell/Start.png)
 
 ## Additional Resources
 
