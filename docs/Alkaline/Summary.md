@@ -5,7 +5,7 @@ parent: Alkaline
 nav_order: 1
 ---
 
-# Alkaline
+# **Alkaline**
 
 ### A 2D Puzzle-Platformer!
 

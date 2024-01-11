@@ -5,7 +5,7 @@ parent: Shadowhound
 nav_order: 1
 ---
 
-# Shadowhound
+# **Shadowhound**
 
 ### An Atari style 2D time-based survival game!
 

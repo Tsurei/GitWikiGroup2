@@ -5,7 +5,7 @@ parent: Circle of Hell
 nav_order: 1
 ---
 
-# Circle of Hell
+# **Circle of Hell**
 
 ### A Text-based choose your path adventure game!
 
