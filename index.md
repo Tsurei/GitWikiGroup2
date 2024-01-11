@@ -4,9 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-# Game Development Portfolio
+# About me
 
-Welcome to my Game Development Portfolio! I'm Russell Paredes, currently immersed in the first year of a two-year advanced diploma course, specializing in game development with a strong focus on programming. My passion lies in creating immersive and engaging gaming experiences that not only captivate players but also push the boundaries of interactive entertainment.
+## Welcome to my Game Development Portfolio! 
+I'm Russell Paredes, currently immersed in the first year of a two-year advanced diploma course, specializing in game development with a strong focus on programming. My passion lies in creating immersive and engaging gaming experiences that not only captivate players but also push the boundaries of interactive entertainment.
 
 As you explore this repository, you'll encounter a diverse collection of projects that exemplify my dedication to innovation and craftsmanship in the realm of game development. From meticulously crafted 2D platformers to expansive 3D worlds, each project serves as a testament to my commitment to delivering captivating digital adventures.
 
