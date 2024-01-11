@@ -15,7 +15,7 @@ nav_order: 1
 
 [![Shadowhound Title Screen](./pictures/Title.png)](https://choseo.itch.io/shadowhound)
 
-#### Originally created as a intro project to Unity during the Fall Term and being worked on as a side project during my free time. I had originally planned to create 4 main levels based on 4 elements for the game, but due to time constraints and overscoping I had to stick to the 
+#### Originally created as a intro project to Unity during the Fall Term and being worked on as a side project during my free time. I had originally planned to create 4 main levels based on 4 elements for the game, but due to time constraints and overscoping I had to stick to one level of which was the air elemental level.
 
 #### This was my first time utilizing the *Unity* framework, so although the game is only a single level at the moment, I hope to further develop levels for this project and expand more on it.
 
