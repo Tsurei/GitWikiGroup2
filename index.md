@@ -14,6 +14,7 @@ As you explore this repository, you'll encounter a diverse collection of project
 Take a journey through the exciting realm of my creations and witness the evolution of my skills and creativity. Alongside my love for game design, you'll discover my proficiency in coding. I navigate the intricacies of game development using languages such as Python, Java, and C#. Join me as I tackle the challenges and celebrate the triumphs of my game development journey. Together, let's explore the vast realms of digital adventure!
 
 ## Projects
+### Checkout my assortment of game projects that I have worked on below!
 
 ### 1. [Alkaline](./docs/Alkaline/Alkaline.html)
    - A 2-D Puzzle-Platformer where you, a robot, must discover who you are as navigate through a series of challenges and puzzles.
