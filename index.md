@@ -22,6 +22,7 @@ Take a journey through the exciting realm of my creations and witness the evolut
 
 ### 2. [Shadowhound](./docs/Shadowhound/Shadowhound.html)
    - An arcade like single level survival game. Outlast the time limit, as you face off against the air elemental!
+![Shadowhound Title Screen](./pictures/Shadowhound/Title.png)
 
 ### 3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
    - A text-based choose your path journey. Can you escape unscathed?
