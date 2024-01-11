@@ -8,11 +8,12 @@ nav_order: 1
 
 ## Welcome to my Game Development Portfolio! 
 ### My name is Russell Paredes. Currently I am immersed in the first year of a two-year advanced diploma course, specializing in game development with a strong focus on programming. 
-My passion lies in creating immersive and engaging gaming experiences that not only captivate players but also push the boundaries of interactive entertainment.
 
-As you explore this repository, you'll encounter a diverse collection of projects that exemplify my dedication to innovation and craftsmanship in the realm of game development. From meticulously crafted 2D platformers to expansive 3D worlds, each project serves as a testament to my commitment to delivering captivating digital adventures.
+##### My passion lies in creating immersive and engaging gaming experiences that not only captivate players but also push the boundaries of interactive entertainment.
 
-Take a journey through the exciting realm of my creations and witness the evolution of my skills and creativity. Alongside my love for game design, you'll discover my proficiency in coding. I navigate the intricacies of game development using languages such as Python, Java, and C#. Join me as I tackle the challenges and celebrate the triumphs of my game development journey. Together, let's explore the vast realms of digital adventure!
+##### As you explore this repository, you'll encounter a diverse collection of projects that exemplify my dedication to innovation and craftsmanship in the realm of game development. From meticulously crafted 2D platformers to expansive 3D worlds, each project serves as a testament to my commitment to delivering captivating digital adventures.
+
+##### Take a journey through the exciting realm of my creations and witness the evolution of my skills and creativity. Alongside my love for game design, you'll discover my proficiency in coding. I navigate the intricacies of game development using languages such as Python, Java, and C#. Join me as I tackle the challenges and celebrate the triumphs of my game development journey. Together, let's explore the vast realms of digital adventure!
 
 ## Projects
 ### Checkout my assortment of game projects that I have worked on below!
@@ -32,9 +33,9 @@ Take a journey through the exciting realm of my creations and witness the evolut
 
 ## Additional Resources
 
-For a comprehensive list of project URLs and additional information, visit the [Links & Resume](docs/Resume.html) page.
+##### For a comprehensive list of project URLs and additional information, visit the [Links & Resume](docs/Resume.html) page.
 
-Feel free to contact me for collaboration opportunities or provide feedback. Let's continue shaping the future of gaming together!
+##### Feel free to contact me for collaboration opportunities or provide feedback. Let's continue shaping the future of gaming together!
 
 
 
