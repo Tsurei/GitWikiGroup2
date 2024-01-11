@@ -18,7 +18,7 @@ Take a journey through the exciting realm of my creations and witness the evolut
 
 ### 1. [Alkaline](./docs/Alkaline/Alkaline.html)
    - A 2-D Puzzle-Platformer where you, a robot, must discover who you are as navigate through a series of challenges and puzzles.
-   ![Alkaline Title Screen](Title.jpg)
+   ![Alkaline Title Screen](https://github.com/Tsurei/Portfolio/blob/main/pictures/Alkaline/Title.jpg)
 
 ### 2. [Shadowhound](./docs/Shadowhound/Shadowhound.html)
    - An arcade like single level survival game. Outlast the time limit, as you face off against the air elemental!
