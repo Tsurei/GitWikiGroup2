@@ -27,13 +27,13 @@ nav_order: 1
    - An arcade like single level survival game. Outlast the time limit, as you face off against the air elemental!
 [![Shadowhound Title Screen](./pictures/Shadowhound/Title.png)](https://choseo.itch.io/shadowhound)
 
-### 3. [Circle of Hell](./docs/Game%20Of%20Life/Game%20Of%20Life.html)
+### 3. [Circle of Hell](./docs/Circle%20Of%20Hell/Circle%20Of%20Hell.html)
    - A text-based choose your path journey. Can you escape unscathed?
 [![Circle of Hell Title Screen](./pictures/Circle%20of%20Hell/Start.png)](https://choseo.itch.io/shadowhound)
 
 ## Additional Resources
 
-##### For a comprehensive list of project URLs and additional information, visit the [Links & Resume](docs/Resume.html) page.
+##### For a comprehensive list of project URLs and additional information, visit the [Links & Resume](./docs/Resume/Resume.html) page.
 
 ##### Feel free to contact me for collaboration opportunities or provide feedback. Let's continue shaping the future of gaming together!
 
