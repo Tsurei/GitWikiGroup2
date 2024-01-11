@@ -27,4 +27,7 @@ nav_order: 1
 ![Idle Animation](./pictures/500%25.gif) ![Running Animation](./pictures/Running.gif) ![Jumping Animation](./pictures/Jumping.gif) ![Falling Animation](./pictures/Falling.gif) ![Sliding Animation](./pictures/Sliding.gif)
 
 ### Sprite Sheets
+
+#### *Sprite sheets were created using [Aesprite](https://www.aseprite.org/)
+
 ![Idle Sprite](./pictures/Idle-sprite.png) ![Running Sprite](./pictures/Running-Animation-export.png) ![Jumping Sprite](./pictures/jumping-animation-export.png) ![Falling Sprite](./pictures/Falling-Animation-export.png) ![Sliding Sprite](./pictures/Sliding-Animation-Flip.png)
