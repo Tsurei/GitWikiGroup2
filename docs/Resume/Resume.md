@@ -6,7 +6,7 @@ nav_order: 5
 
 ## **Resume**
 
-![Resume](./Resume Base.jpg)
+![Resume](./Resume_Base.jpg)
 
 ## **Social Links**
 
