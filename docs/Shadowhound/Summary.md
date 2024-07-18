@@ -13,7 +13,7 @@ nav_order: 1
 
 ### First Game Created within *Unity* framework!
 
-[![Shadowhound Title Screen](./pictures/Title.png)](https://choseo.itch.io/shadowhound)
+[![Shadowhound Title Screen](./pictures/Title.png)](https://rustychio.itch.io/shadowhound)
 #### *Click the Image to play the game!*
 
 #### Originally created as a intro project to Unity during the Fall Term and being worked on as a side project during my free time. I had originally planned to create 4 main levels based on 4 elements for the game, but due to time constraints and overscoping I had to stick to one level of which was the air elemental level.
