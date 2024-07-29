@@ -29,13 +29,13 @@ nav_order: 1
 
 ## Game Development
 ##### The game was built between a team of 3 programmers and 3 artists. Character Movement and abilities were my focus on this project. 
-![Level1](./pictures/Level1.png) ![Level2](./pictures/Level2.png)
 
 ### Character Movement
 ##### Nailing the character movement proved to require an extensive amount of testing. First tests had the character rotating instantaneosly towards the targeted direction when flicking the analog stick from one side to the other. In order to make the gameplay feel more smooth and natural, I had experimented to code the rotation in a way that the player model can be visually seen rotating towards the opposite direction instead of snapping onto that direction, resulting in a more natural looking rotation.
 
 ### Character Abilities
-##### Initial plans had the character being able to cast a variety of spells all set with different cooldowns. However, due to the decided decision of keeping the controls simple with one attack button and one dash button we needed to change our plan of action. Thus, the ability to charge the main attack in order to unleash different abilities was created
+##### Initial plans had the character being able to cast a variety of spells all set with different cooldowns. However, due to the decided decision of keeping the controls simple with one attack button and one dash button we needed to change our plan of action. Thus, the ability to charge the main attack in order to unleash different abilities was created.
+##### The player has access to 3 levels of their main ability. By holding their main attack button down, they are able to see which level they are currently at by an aura emanating around the player character.
 
 ### Gameplay Screenshots
-![Level3](./pictures/Level1.png) ![Level4](./pictures/Level2.png) ![Level5](./pictures/Level3.png) ![Level6](./pictures/Level4.png) ![Level7](./pictures/Level5.png) ![Level8](./pictures/Level6.png)
+![Level1](./pictures/Level1.png) ![Level2](./pictures/Level2.png) ![Level3](./pictures/Level3.png)
