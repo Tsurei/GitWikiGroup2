@@ -24,16 +24,17 @@ nav_order: 1
 ##### A Notion page was also created to help organize team documents, ideas, planning, etc.
 
 
-![Draft Image](./pictures/Draft.png)
-#### *Initial Draft presentation presented to rest of class and instructors*
+[![Draft Image](./pictures/Draft.png)](https://www.figma.com/board/qseYS3K4WBYXKnDQ3LTcP9/GameStudio2_BossFight?node-id=0-1)
+#### *Game Prototype Moodboard*
 
 ## Game Development
-##### The game was built between a team of 3 programmers and 3 artists. Complex level design and puzzle mechanics were my main focus for the game. 
+##### The game was built between a team of 3 programmers and 3 artists. Character Movement and abilities were my focus on this project. 
 ![Level1](./pictures/Level1.png) ![Level2](./pictures/Level2.png)
 
-### Level Design
-##### In Regards to level design, multiple rounds of testing had to be done in order to see what a good level of difficulty was needed. On one hand I would setup levels that only 1/10 people could finish, while on the flip side, 10/10 would easily accomplish it. So finding that middle ground was much needed. 
-##### Also, with the level framework we had built with all the puzzle mechanic and narrative we had created, I wanted to not only give players something set in stone, but also a vision of what possibilities Alkaline could possess. The potential puzzles that could be created with already created assets.
+### Character Movement
+##### Nailing the character movement proved to require an extensive amount of testing. First tests had the character rotating instantaneosly towards the targeted direction when flicking the analog stick from one side to the other. In order to make the gameplay feel more smooth and natural, I had experimented to code the rotation in a way that the player model can be visually seen rotating towards the opposite direction instead of snapping onto that direction.
 
-### Level Screenshots
-![Level3](./pictures/Level3.png) ![Level4](./pictures/Level4.png) ![Level5](./pictures/Level5.png) ![Level6](./pictures/Level6.png) ![Level7](./pictures/Level7.png) ![Level8](./pictures/Level8.png)
+##### 
+
+### Gameplay Screenshots
+![Level3](./pictures/Level1.png) ![Level4](./pictures/Level2.png) ![Level5](./pictures/Level3.png) ![Level6](./pictures/Level4.png) ![Level7](./pictures/Level5.png) ![Level8](./pictures/Level6.png)
