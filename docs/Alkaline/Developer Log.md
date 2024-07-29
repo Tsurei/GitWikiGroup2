@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Developer Log
-parent: Alkaline
+parent: Mutant
 nav_order: 2
 ---
 
-# Alkaline
+# Mutant
 ## Developer Log
 
+### Gameplay Overview
+[![Gameplay Overview](./pictures/GameplayOverview.png)](https://youtu.be/XycwQQxSrHc)
 
+### Individual Contribution
+[![Individual](./pictures/IndividualContribution.png)](https://youtu.be/NqtlybEwOhc)
 
