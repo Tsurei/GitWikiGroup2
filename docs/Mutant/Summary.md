@@ -32,9 +32,10 @@ nav_order: 1
 ![Level1](./pictures/Level1.png) ![Level2](./pictures/Level2.png)
 
 ### Character Movement
-##### Nailing the character movement proved to require an extensive amount of testing. First tests had the character rotating instantaneosly towards the targeted direction when flicking the analog stick from one side to the other. In order to make the gameplay feel more smooth and natural, I had experimented to code the rotation in a way that the player model can be visually seen rotating towards the opposite direction instead of snapping onto that direction.
+##### Nailing the character movement proved to require an extensive amount of testing. First tests had the character rotating instantaneosly towards the targeted direction when flicking the analog stick from one side to the other. In order to make the gameplay feel more smooth and natural, I had experimented to code the rotation in a way that the player model can be visually seen rotating towards the opposite direction instead of snapping onto that direction, resulting in a more natural looking rotation.
 
-##### 
+### Character Abilities
+##### Initial plans had the character being able to cast a variety of spells all set with different cooldowns. However, due to the decided decision of keeping the controls simple with one attack button and one dash button we needed to change our plan of action. Thus, the ability to charge the main attack in order to unleash different abilities was created
 
 ### Gameplay Screenshots
 ![Level3](./pictures/Level1.png) ![Level4](./pictures/Level2.png) ![Level5](./pictures/Level3.png) ![Level6](./pictures/Level4.png) ![Level7](./pictures/Level5.png) ![Level8](./pictures/Level6.png)
