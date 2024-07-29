@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume & Social Links
-nav_order: 5
+nav_order: 8
 ---
 
 ## **Resume**
