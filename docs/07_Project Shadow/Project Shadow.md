@@ -7,6 +7,7 @@ nav_order: 8
 
 # Project SHADOW
 
-Currently in the works.
+### Currently in the works.
 
-Expected finish date July 31st.
+## Expected finish date July 31st.
+## DELAYED
